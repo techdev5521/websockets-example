@@ -1,6 +1,6 @@
 # How To Run
 
-![Websockets Example](screensht.png "Websockets Example")
+![Websockets Example](screenshot.png "Websockets Example")
 
 ## On a local NodeJS server:
 
